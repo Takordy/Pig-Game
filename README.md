@@ -1,3 +1,3 @@
 # Pig-Game
 
-pig-game-test.netlify.app
+https://pig-game-test.netlify.app/
